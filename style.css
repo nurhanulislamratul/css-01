@@ -1,0 +1,59 @@
+/* h1 {
+  color: blue;
+} */
+
+* {
+  padding: 0px;
+  margin: 0px;
+  /* height: 100%; */
+  /* background-color: blue; */
+}
+
+/* #tanha {
+  color: red;
+  text-align: center;
+}
+
+.bolo {
+  color: azure;
+  text-align: center;
+} */
+
+h1,
+h2,
+h3,
+p {
+  color: #292e36;
+  text-align: center;
+}
+
+/* css color */
+/* selector{
+    color: valu;
+} */
+
+/* Css Background */
+/* 1. Colour
+2. Image */
+h3 {
+  background-color: aliceblue;
+}
+/* Image */
+/* selector{
+    background-image: url(img-url);
+} */
+
+body {
+  background: purple fixed url(./img/im/download.jpeg) no-repeat right top;
+}
+
+#tanha {
+  border: 8px inset white;
+  /* dotted
+    dashed
+    double
+    groove 
+    ridge
+    inset
+    */
+}
